@@ -2,5 +2,10 @@ a = input("Enter two number")
 b= input()
 
 sum = int(a)+int(b)
+print("reult is "+str(sum))a
 
-print("reult is "+str(sum))
+AND
+
+#To find length of string
+a="how are you"
+print(len(a))
