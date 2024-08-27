@@ -1,0 +1,3 @@
+a = input("Enter the number")
+b = input("Enter another number")
+print("hi how are your roll number is "+str(a)+"and your friend  is "+str(b))
